@@ -1,18 +1,18 @@
 Initialisatie van Tentamen Repository Bi5a-T_1819
-# Naam Student:
-## Studentnummer:
-## Klas:
+# Naam Student: Carlijn Fransen
+## Studentnummer: 600884
+## Klas: BIN2B
 
 ## Beoordeling Student
 | Onderdeel  | Max Score | Student | Docent |
 | ------------- | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- | ------------- |
 | 1. GUI Functionaliteit | | | |
-| 1a. Juiste opbouw  | 2 | << Vul in >> | |
+| 1a. Juiste opbouw  | 2 | << Test >> | |
 | 1b. Juiste weergave | 4 | << Vul in >> | |
 | ------------- | ------------- | ------------- | ------------- |
 | 2. Exception Handling | | | |
-| 2a. Standaard exceptions  | 2 | << Vul in >> | |
+| 2a. Standaard exceptions  | 2 | test 2 | |
 | 2b. Custom exceptions  | 2 | << Vul in >> | |
 | ------------- | ------------- | ------------- | ------------- |
 | 3. Applicatie logica | | | |
